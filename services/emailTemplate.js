@@ -148,7 +148,7 @@ module.exports = ({ emailFrom, downloadLink, size, expires }) => {
                             <tr>
                             <td class="content-block" style="font-family: sans-serif; vertical-align: top; padding-bottom: 10px; padding-top: 10px; font-size: 12px; color: #999999; text-align: center;">
                                 
-                                <br> Want to share a file? <a href="http://localhost:3000" style="text-decoration: underline; color: #999999; font-size: 12px; text-align: center;">Picksfile</a>.
+                                <br> Want to share a file? <a href="https://picksfile.netlify.app" style="text-decoration: underline; color: #999999; font-size: 12px; text-align: center;">Picksfile</a>.
                             </td>
                             </tr>
                             <tr>
